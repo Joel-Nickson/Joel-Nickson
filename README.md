@@ -3,7 +3,7 @@
 
 - Currently I'm a student.
 - 🌱 I’m currently learning bootstrap and react
-- ⏳ I'm trying to manage time without
+- ⏳ I'm trying to manage time 
 - 🕸 I'll soon start working on cslavia
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 

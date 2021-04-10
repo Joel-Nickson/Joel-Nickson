@@ -13,7 +13,7 @@
   <!--<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> -->
 </p>
 
-[![Vyvy-vi github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <a href="https://github.com/Vyvy-vi/Vyvy-vi">

@@ -13,13 +13,21 @@
   <!--<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> -->
 </p>
 
+
 [![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<a href="https://github.com/Vyvy-vi/Vyvy-vi">
-  <img src="https://profile-readme-git-master-vyvy-vi.vercel.app/api?username=Joel-Nickson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joel's GitHub Stats" />
-</a>
+  <a href="https://github.com/Ashutosh00710/Ashutosh00710">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joel-Nickson&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+  </a>
+  <a href="https://github.com/Ashutosh00710/Ashutosh00710">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Nickson&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-  dark&hide_border=true" />
+  </a>
 </p>
+
+
 
 <!--
 ---

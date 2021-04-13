@@ -4,7 +4,7 @@
 - Currently I'm a student.
 - 🌱 I’m currently learning web-devs and a beginer at hackthebox
 - ⏳ Manageing time is hard
-- 🕸 I'll soon start working on cslavia
+- 🕸 I'll be working on mlh-weather-forcasting next
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 

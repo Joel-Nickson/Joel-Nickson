@@ -4,7 +4,7 @@
 - Currently I'm a student.
 - 🌱 I’m currently learning web-devs and a beginer at hackthebox
 - ⏳ Manageing time is hard
-- 🕸 Planing on making a page where everyone can show ways to be productive
+- 🕸 Planing on making a page where everyone can showcase ways to be productive
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 

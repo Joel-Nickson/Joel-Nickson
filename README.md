@@ -2,9 +2,9 @@
 
 
 - Currently I'm a student.
-- 🌱 I’m currently learning web-devs and a beginer at hackthebox
+- 🌱 I’m currently learning wasm
 - ⏳ Manageing time is hard
-- 🕸 Planing on making a page where everyone can showcase ways to be productive
+- 🕸 Trying to find a way to convet [maze](https://github.com/Joel-Nickson/Maze-in-java) to a web app
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 

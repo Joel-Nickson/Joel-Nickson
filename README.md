@@ -1,10 +1,10 @@
-### Hello World!
+###   👋 World 
 
 
-- 🌱 Currently doing college stuff
 - ⏳ Manageing time is hard
+- 🍃 Currently doing college stuff
 - 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) through project based learning
-- 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
+- 🌱 PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 
 <p align="center">

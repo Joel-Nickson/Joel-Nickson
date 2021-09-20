@@ -1,10 +1,9 @@
 ### Hello World!
 
 
-- Currently I'm a student.
-- 🌱 I’m currently learning wasm
+- 🌱 Currently doing college stuff
 - ⏳ Manageing time is hard
-- 🕸 Trying to find a way to convet [maze](https://github.com/Joel-Nickson/Maze-in-java) to a web app
+- 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) through project based learning
 - 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 

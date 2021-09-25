@@ -2,8 +2,9 @@
 
 
 - ⏳ Manageing time is hard
-- 🍃 Currently doing college stuff
+- 🍃 Currently doing college stuff 
 - 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) through project based learning
+- ⚒ can find my works @ these orgs: [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
 - 🌱 PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
 
 

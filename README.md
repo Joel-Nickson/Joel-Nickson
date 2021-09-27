@@ -1,11 +1,11 @@
 ###   👋 World 
 
-
+<!-- 
 <p align="center">
   <a href="https://twitter.com/JoelNickson5"><img target="_blank" src="https://img.shields.io/twitter/url?logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJoelNickson5"/></a> 
-  <!--<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> -->
+  <!--<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
 </p>
-
+ -->
 
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>

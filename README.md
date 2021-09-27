@@ -1,20 +1,11 @@
 ###   👋 World 
 
 
-- ⏳ Manageing time is hard
-- 🍃 Currently doing college stuff 
-- 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) through project based learning
-- ⚒ can find my works @ these orgs: [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
-- 🌱 PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/) or [ECOSIA](https://www.ecosia.org/)
-
-
 <p align="center">
   <a href="https://twitter.com/JoelNickson5"><img target="_blank" src="https://img.shields.io/twitter/url?logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJoelNickson5"/></a> 
   <!--<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> -->
 </p>
 
-
-[![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
@@ -27,6 +18,14 @@
 </a>
 </p>
 
+
+[![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+- ⏳ Manageing time is hard
+- 🍃 Currently doing college stuff 
+- 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) and firebase in the meanwhile
+- ⚒ can find my works @ these orgs: [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
 
 
 

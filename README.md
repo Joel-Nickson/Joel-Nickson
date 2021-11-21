@@ -13,9 +13,11 @@
   <a href="https://github.com/Ashutosh00710/Ashutosh00710">
     <img src="https://github-readme-stats.vercel.app/api?username=Joel-Nickson&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
   </a>
-<a href="https://github.com/Ashutosh00710/Ashutosh00710">
+  
+<!--<a href="https://github.com/Ashutosh00710/Ashutosh00710">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Nickson&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark&hide_border=true" />
 </a>
+-->
 </p>
 
 

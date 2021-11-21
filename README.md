@@ -24,10 +24,8 @@
 [![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joel-Nickson&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-- ⏳ Manageing time is hard
-- 🍃 Currently doing college stuff 
-- 🕸 Also learning [nuxt.js](https://github.com/Joel-Nickson/nuxtjs-pg-ui) and firebase in the meanwhile
-- ⚒ can find my works @ these orgs: [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
+- 🕸 Learning arch in wsl
+- ⚒ can find my other projects @ these orgs: [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
 
 
 

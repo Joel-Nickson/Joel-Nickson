@@ -25,7 +25,7 @@
 
 
 - 🕸 Learning arch in wsl
-- ⚒ other projects @ [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
+- ⚒ other projects @ [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS), [ICEFOSS](https://github.com/ICEFOSS/)
 
 
 
